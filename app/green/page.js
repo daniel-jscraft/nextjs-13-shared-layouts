@@ -1,0 +1,1 @@
+export default () => <h1>🟢 Green page</h1>
